@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaovquintas
 - 👀 I’m interested in Python projects and improving my programming skills
-- 🌱 I’m currently learning Python, SQL and Machine Learning
+- 🌱 I’m currently learning Python, SQL and Deep Learning.
 
 <!---
 joaovquintas/joaovquintas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
