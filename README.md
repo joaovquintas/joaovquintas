@@ -1,5 +1,6 @@
 ### Hi there, I'm João Vitor Quintas. 👋
 
+- 🎓 I'm currently graduating in Science and Technology, and Computer Science at UFABC. 
 - 🌱 I’m currently learning DSA in C/C++, NodeJS and Nextjs.
 - 📫 How to reach me: jvqs99@outlook.com
 - 😄 Pronouns: He/him.
