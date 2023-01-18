@@ -1,8 +1,8 @@
 ### Hi there, I'm João Vitor Quintas. 👋
 
 - 🎓 I'm currently undergraduating in Science and Technology, and Computer Science at UFABC. 
-- 🌱 I’m currently learning DSA in C/C++,HTML, CSS and JS, Node.
-- 📫 How to reach me: jvqs99@outlook.com
+- 🌱 I’m currently learning DSA in C/C++,JS, NodeJS and React.js.
+- 📫 How to reach me: jvqs99@outlook.com.
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: Trying to understand programming since I was 14 years old.
 
