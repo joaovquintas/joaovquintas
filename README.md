@@ -1,10 +1,9 @@
 ### Hi there, I'm João Vitor Quintas. 👋
 
-- 🎓 I'm currently undergraduating in Science and Technology, and Computer Science at UFABC. 
-- 🌱 I’m currently learning DSA in C/C++,JS, NodeJS and React.js.
+- 🎓 I'm currently undergraduating in Science and Technology, and Aerospace Engineering at UFABC. 
+- 🌱 I’m currently researching airfoil and propeller optimization.
 - 📫 How to reach me: jvqs99@outlook.com.
 - 😄 Pronouns: He/him.
-- ⚡ Fun fact: Trying to understand programming since I was 14 years old.
 
 <div align="center">
   <a href="https://github.com/joaovquintas">
