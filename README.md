@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/joaovquintas">
-  <img height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaovquintas&layout=compact&langs_count=7&theme=onedark&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaovquintas&layout=compact&langs_count=7&theme=onedark&hide_border=true"/>
 </div>
 
 
