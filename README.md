@@ -1,10 +1,11 @@
-### Hi there, I'm João Vitor Quintas. 👋
+### Hi there, I'm João Vitor Quintas 👋
 
-- 🎓 I'm currently pursuing a Bachelor's degree in Science and Technology at UFABC.  
-- 🤖 I'm passionate about Deep Learning and Generative AI.  
-- 💼 I'm currently interning in Data Science, applying NLP techniques to the medical field.  
-- 📫 How to reach me: jvqs99@outlook.com.  
-- 😄 Pronouns: He/him.
+- 🎓 Bachelor's in Science and Technology at UFABC.  
+- 🤖 Passionate about Data Science.  
+- 💼 Data Analysis and Operational Risk intern, applying SQL and Python to measure risk in AWS.  
+- 📫 Contact: jvqs99@outlook.com  
+
+
 
 <div align="center">
   <a href="https://github.com/joaovquintas">
