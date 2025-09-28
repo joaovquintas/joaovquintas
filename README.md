@@ -2,7 +2,7 @@
 
 - 🎓 Bachelor's in Science and Technology at UFABC.  
 - 🤖 Passionate about Data Science.  
-- 💼 Data Analysis and Operational Risk intern, applying SQL and Python to measure risk in AWS.  
+- 💼 Data Analysis and Operational Risk intern, applying SQL and Python to measure risk using AWS.  
 - 📫 Contact: jvqs99@outlook.com  
 
 
